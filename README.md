@@ -114,8 +114,8 @@
 ### 📊 GitHub Data & Activité 3D
 
 <div align="center">
-  <!-- Graphique 3D isométrique des contributions (Généré par l'Action) -->
-  <img width="100%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contrib Graph" />
+  <!-- On pointe vers un format standard garanti -->
+  <img width="100%" src="./profile-3d-contrib/profile.svg" alt="3D Contrib Graph" />
 </div>
 
 <br/>
