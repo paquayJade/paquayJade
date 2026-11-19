@@ -14,6 +14,8 @@
         Actuellement en <b>bachelier en informatique</b>, <br/>dans la
         tech depuis le plus jeune age. 🌱
       </p>
+      <br/>
+      <br/>
       <ul>
         <li>💻 <b>Domaine :</b> Développement Logiciel & Game Dev</li>
         <li>🎓 <b>Statut :</b> Étudiant en Informatique</li>
