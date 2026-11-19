@@ -3,19 +3,7 @@
   <img src="./hero-banner.png" width="100%" alt="Bannière Néon" />
 </div>
 
-<br/>
-
-<!-- BOUTONS RÉSEAUX / IDENTITÉ -->
-<div align="center">
-  <a href="https://github.com/paquayJade">
-    <img src="https://img.shields.io/badge/GITHUB-paquayJade-0d1117?style=for-the-badge&logo=github&logoColor=00ffcc" />
-  </a>
-  <a href="mailto:ton-email@domain.com">
-    <img src="https://img.shields.io/badge/CONTACT-Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=ff007f" />
-  </a>
-</div>
-
-<br/>
+<br>
 
 <!-- SECTION PRÉSENTATION PRINCIPALE -->
 <table>
@@ -23,7 +11,7 @@
     <td width="65%" valign="top">
       <h3>🌸 Hey, moi c'est Jade !</h3>
       <p>
-        Actuellement en <b>bachelier en informatique</b>, dans la
+        Actuellement en <b>bachelier en informatique</b>, <br/>dans la
         tech depuis le plus jeune age. 🌱
       </p>
       <ul>
