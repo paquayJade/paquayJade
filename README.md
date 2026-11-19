@@ -110,17 +110,10 @@
 
 <br/>
 
-<!-- STATS GITHUB 3D (STYLE ISOMÉTRIQUE) -->
-### 📊 GitHub Data & Activité 3D
 
+### 📊 GitHub Stats
+
+<!-- SCHEMA DE CONTRIBUTIONS 2D NATIF -->
 <div align="center">
-  <!-- On pointe vers un format standard garanti -->
-  <img width="100%" src="./profile-3d-contrib/profile.svg" alt="3D Contrib Graph" />
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- Langages favoris en anneau discret -->
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paquayJade&layout=donut&bg_color=0d1117&title_color=00ffcc&text_color=c9d1d9&hide_border=true" alt="Langages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=paquayJade&theme=tokyonight&hide_border=true&bg_color=0d1117&color=c0caf5&line=7aa2f7&point=bb9af7&area=true" alt="Contribution Graph" width="100%" />
 </div>
