@@ -5,11 +5,11 @@
 
 <br>
 
+<h1>🌸 Hey, moi c'est Jade !</h1>
 <!-- SECTION PRÉSENTATION PRINCIPALE -->
 <table>
   <tr>
     <td width="65%" valign="top">
-      <h3>🌸 Hey, moi c'est Jade !</h3>
       <p>
         Actuellement en <b>bachelier en informatique</b>, <br/>dans la
         tech depuis le plus jeune age. 🌱
@@ -28,7 +28,7 @@
 <br/>
 
 <!-- CATEGORIE : LIEUX D'APPRENTISSAGE AVEC LOGOS -->
-### 🚀 Cursus & Lieux d'apprentissage
+## 🚀 Cursus & Lieux d'apprentissage
 
 <table width="100%">
   <tr>
@@ -58,7 +58,7 @@
 <br/>
 
 <!-- CATEGORIE : CENTRES D'INTÉRÊT -->
-### 🪐 Centres d'intérêt
+## 🪐 Centres d'intérêt
 
 <table width="100%">
   <tr>
@@ -84,7 +84,7 @@
 <br/>
 
 <!-- TECH STACK -->
-### 🛠️ Tech Stack & Compétences
+## 🛠️ Tech Stack & Compétences
 
 <p align="center">
   <b>Maîtrisés</b><br>
@@ -99,7 +99,7 @@
 <br/>
 
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <!-- SCHEMA DE CONTRIBUTIONS 2D NATIF -->
 <div align="center">
