@@ -17,8 +17,8 @@
       <br/>
       <br/>
       <ul>
-        <li>💻 <b>Domaine :</b> Développement Logiciel & Game Dev</li>
-        <li>🎓 <b>Statut :</b> Étudiant en Informatique</li>
+        <li>💻 <b>Domaine :</b> Développement Logiciel & Jeu</li>
+        <li>🎓 <b>Statut :</b> Étudiaent en Informatique</li>
       </ul>
     </td>
     <td width="35%" align="center">
